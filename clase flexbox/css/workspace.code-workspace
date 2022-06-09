@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "modelo de cajas",
+			"path": "../.."
+		},
+		{
+			"name": "Practica flex",
+			"path": "../../../../../Downloads/Practica flex"
+		},
+		{
+			"path": "../../../../../Downloads/Pizza&Front"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "modelo de cajas"
+	}
+}
